@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="exercise14electronviernestokatrinaciel.jnlp">
+  <information>
+    <title>exercise14electronviernestokatrinaciel</title>
+    <vendor>Lauan 03</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="exercise14electronviernestokatrinaciel.jar" size="45857" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="exercise14electronviernestokatrinaciel.FXExer14"  name="exercise14electronviernestokatrinaciel" />
+  <update check="always"/>
+</jnlp>
